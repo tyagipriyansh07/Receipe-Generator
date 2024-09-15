@@ -1,0 +1,29 @@
+# Basic data processing
+pandas==2.0.3
+numpy==1.25.0
+datasets==2.14.5
+
+# Model training and fine-tuning
+transformers==4.33.2
+torch==2.0.1
+accelerate==0.22.0
+trl==0.4.7
+unsloth==0.0.3
+
+# Quantization tools (if applicable)
+bitsandbytes==0.41.1
+
+# Jupyter Notebook (for local exploration and model training)
+jupyter==1.0.0
+notebook==7.0.4
+
+# Streamlit (for deployment)
+streamlit==1.25.0
+
+# Additional utilities
+scikit-learn==1.3.0
+tqdm==4.66.1
+
+# Ensure CUDA compatibility (modify if using a different CUDA version)
+nvidia-cuda-runtime-cu11==11.8.89
+nvidia-cudnn-cu11==8.9.4.25
