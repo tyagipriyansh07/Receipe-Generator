@@ -113,11 +113,11 @@ Below our two examples attached from where you can understand:
 
 ### Example 1:
 
-![Recipe Example 1](examples/EX1.jpg)
+![Recipe Example 1](examples/recipe_example_1.jpg)
 
 ### Example 2:
 
-![Recipe Example 2](examples/ex2.jpg)
+![Recipe Example 2](examples/recipe_example_2.jpg)
 
 
 
