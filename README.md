@@ -117,7 +117,7 @@ Below our two examples attached from where you can understand:
 
 ### Example 2:
 
-![Example 2](examples/ex2.jpg)
+![Example 2](/ex2.jpg)
 
 
 
