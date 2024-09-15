@@ -27,7 +27,7 @@ The objective of this project is to generate personalized recipes based on user 
 Although the project is not deployed due to GPU restrictions, the Jupyter notebooks and dataset are available for anyone interested in experimenting with the model or reproducing the results.
 
 
-###  2.Data Preparation
+###  2.Data Preparation & Preprocessing
 
 The dataset used for training the model was formed by merging two recipe datasets available online. The steps involved in preparing the dataset are as follows:
 
