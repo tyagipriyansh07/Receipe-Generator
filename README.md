@@ -109,6 +109,16 @@ A recipe name
 A step-by-step direction list
 Nutritional information (calories, protein, fat, sodium)
 
+Below our two examples attached from where you can understand:
+
+Example 1:
+
+![Alt text]("C:\Users\Priyansh Tyagi\Downloads\EX1.jpg")
+
+Example 2:
+
+![Alt text]("C:\Users\Priyansh Tyagi\Downloads\ex2.jpg")
+
 
 
 
