@@ -113,11 +113,12 @@ Below our two examples attached from where you can understand:
 
 ### Example 1:
 
-![Example 1](images/EX1.jpg)
+![Example 1](examples/EX1.jpg)
 
 ### Example 2:
 
-![Example 2](images/ex2.jpg)
+![Example 2](examples/ex2.jpg)
+
 
 
 
