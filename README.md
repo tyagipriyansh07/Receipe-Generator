@@ -6,8 +6,7 @@ This project involves building a recipe generator that creates detailed recipes 
 ## Table of Contents
 
 ###### Project Overview
-###### Dataset Preparation
-###### Data Preprocessing
+###### Dataset Preparation & Preprocessing
 ###### Model Training
 ###### Model Deployment
 ###### Usage
