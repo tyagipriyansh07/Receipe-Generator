@@ -111,13 +111,13 @@ Nutritional information (calories, protein, fat, sodium)
 
 Below our two examples attached from where you can understand:
 
-Example 1:
+### Example 1:
 
-![Alt text]("C:\Users\Priyansh Tyagi\Downloads\EX1.jpg")
+![Example 1](images/EX1.jpg)
 
-Example 2:
+### Example 2:
 
-![Alt text]("C:\Users\Priyansh Tyagi\Downloads\ex2.jpg")
+![Example 2](images/ex2.jpg)
 
 
 
