@@ -78,7 +78,7 @@ Step 1-> Download the Dataset: Download the CSV dataset file from the repository
 
 Step 2->Run the Model Training File: Execute the model training file to fine-tune the Mistral model on the custom dataset.
 
-Step 3->Run the Inference File: Use the inference file to see the results of the trained model and generate recipes based on dietary restrictions and ingredients.
+Step 3->Use the inference.ipynb file located in the notebooks folder to see the results of the trained model and generate recipes based on dietary restrictions and ingredients. If you want to use the saved model "Mistral Nemo," update the file path in the inference.ipynb file accordingly.
 
 Step 4->Deploy on Streamlit (Optional): If you have enough GPU power, you can deploy the model using the provided Streamlit file.
 
